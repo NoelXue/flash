@@ -136,3 +136,5 @@ $('div.alert').not('.alert-important').delay(3000).fadeOut(350);
 ```
 
 This will find any alerts - excluding the important ones, which should remain until manually closed by the user - wait three seconds, and then fade them out.
+
+this is the second commit
